@@ -15,7 +15,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
-### Hi there 👋
+### Hi there 👋 I am Harry , current i am working at my personal blog apt32team.com <
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
