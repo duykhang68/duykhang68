@@ -1,5 +1,7 @@
 package main
+
 import "fmt"
+
 func main () {
-	fmt.Prinln("Hello Golang")
+	fmt.Println("Hello Golang")
 }
