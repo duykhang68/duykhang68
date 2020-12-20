@@ -1,9 +1,9 @@
-### Hi there 👋 I am Harry , current i am working at my personal blog apt32team.com <
+### Hi there 👋 I am Harry , 
 
-⏳ Year progress { █████████████████████████████▁ } 96.85 %
+⏳ Year progress { █████████████████████████████▁ } 96.86 %
 
 ---
 
-⏰ Updated on Sun, 20 Dec 2020 11:26:29 GMT
+⏰ Updated on Sun, 20 Dec 2020 11:52:14 GMT
 
 ![Progress Bar CI](https://github.com/duykhang68/duykhang68/workflows/Progress%20Bar%20CI/badge.svg)
