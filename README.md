@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Harry , 
 
-⏳ Year progress { █████████████████████████▁▁▁▁▁ } 86.40 %
+⏳ Year progress { █████████████████████████▁▁▁▁▁ } 86.41 %
 
 ---
 
-⏰ Updated on Fri, 12 Nov 2021 08:55:56 GMT
+⏰ Updated on Fri, 12 Nov 2021 09:22:20 GMT
 
 ![Progress Bar CI](https://github.com/duykhang68/duykhang68/workflows/Progress%20Bar%20CI/badge.svg)
